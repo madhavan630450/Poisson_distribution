@@ -1,5 +1,5 @@
 # Fitting Poisson  distribution
- # Date :25/10/22
+ # Date :25/10/25
  # Name :Marimuthu Mathavan
  # register number : 212224230153
 # Aim : 
